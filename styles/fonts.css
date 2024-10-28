@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Poppins";
+    src: local("Poppins"), 
+        url("../assets/Poppins/Poppins-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: local("Poppins"), 
+        url("../assets/Poppins/Poppins-Bold.ttf");
+    font-weight: 700;
+}
